@@ -9,7 +9,8 @@
       "MyProject/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.OpenApi": "7.0.10",
-          "Swashbuckle.AspNetCore": "6.5.0"
+          "Swashbuckle.AspNetCore": "6.5.0",
+          "Swashbuckle.AspNetCore.SwaggerUI": "6.5.0"
         },
         "runtime": {
           "MyProject.dll": {}
